@@ -1,0 +1,3 @@
+Comparison Report
+=================
+No test images were processed or compared.
