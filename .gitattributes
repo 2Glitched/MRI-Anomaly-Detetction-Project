@@ -1,3 +1,1 @@
 *.dcm filter=lfs diff=lfs merge=lfs -text
-*.dcmgit filter=lfs diff=lfs merge=lfs -text
-add filter=lfs diff=lfs merge=lfs -text
